@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MovieCloneCoding/ts_movie_app/static/css/main.9016d165.chunk.css",
-    "main.js": "/MovieCloneCoding/ts_movie_app/static/js/main.d2905bcf.chunk.js",
-    "main.js.map": "/MovieCloneCoding/ts_movie_app/static/js/main.d2905bcf.chunk.js.map",
-    "runtime-main.js": "/MovieCloneCoding/ts_movie_app/static/js/runtime-main.68521364.js",
-    "runtime-main.js.map": "/MovieCloneCoding/ts_movie_app/static/js/runtime-main.68521364.js.map",
-    "static/js/2.079d8768.chunk.js": "/MovieCloneCoding/ts_movie_app/static/js/2.079d8768.chunk.js",
-    "static/js/2.079d8768.chunk.js.map": "/MovieCloneCoding/ts_movie_app/static/js/2.079d8768.chunk.js.map",
-    "index.html": "/MovieCloneCoding/ts_movie_app/index.html",
-    "precache-manifest.e445ea0558f38c2a89cfa768a6ab4a59.js": "/MovieCloneCoding/ts_movie_app/precache-manifest.e445ea0558f38c2a89cfa768a6ab4a59.js",
-    "service-worker.js": "/MovieCloneCoding/ts_movie_app/service-worker.js",
-    "static/css/main.9016d165.chunk.css.map": "/MovieCloneCoding/ts_movie_app/static/css/main.9016d165.chunk.css.map",
-    "static/js/2.079d8768.chunk.js.LICENSE.txt": "/MovieCloneCoding/ts_movie_app/static/js/2.079d8768.chunk.js.LICENSE.txt"
+    "main.css": "/MovieCloneCoding/static/css/main.9016d165.chunk.css",
+    "main.js": "/MovieCloneCoding/static/js/main.8f42088f.chunk.js",
+    "main.js.map": "/MovieCloneCoding/static/js/main.8f42088f.chunk.js.map",
+    "runtime-main.js": "/MovieCloneCoding/static/js/runtime-main.e152858b.js",
+    "runtime-main.js.map": "/MovieCloneCoding/static/js/runtime-main.e152858b.js.map",
+    "static/js/2.079d8768.chunk.js": "/MovieCloneCoding/static/js/2.079d8768.chunk.js",
+    "static/js/2.079d8768.chunk.js.map": "/MovieCloneCoding/static/js/2.079d8768.chunk.js.map",
+    "index.html": "/MovieCloneCoding/index.html",
+    "precache-manifest.93bdec539c91a8035667799208aaa9b2.js": "/MovieCloneCoding/precache-manifest.93bdec539c91a8035667799208aaa9b2.js",
+    "service-worker.js": "/MovieCloneCoding/service-worker.js",
+    "static/css/main.9016d165.chunk.css.map": "/MovieCloneCoding/static/css/main.9016d165.chunk.css.map",
+    "static/js/2.079d8768.chunk.js.LICENSE.txt": "/MovieCloneCoding/static/js/2.079d8768.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.68521364.js",
+    "static/js/runtime-main.e152858b.js",
     "static/js/2.079d8768.chunk.js",
     "static/css/main.9016d165.chunk.css",
-    "static/js/main.d2905bcf.chunk.js"
+    "static/js/main.8f42088f.chunk.js"
   ]
 }
